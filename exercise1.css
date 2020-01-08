@@ -1,0 +1,30 @@
+#id1{
+    font-size: 60px;
+    color: rgb(228, 95, 34);
+    text-align: center;
+    font-weight: bold;
+}
+
+#id2{
+    text-align: center;
+    font-style: italic;
+}
+
+body{
+
+    background-color:skyblue;
+    
+}
+
+p{
+    border: 1px solid black;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+img{
+    width: 800px;
+    border: 1px black;
+
+}
